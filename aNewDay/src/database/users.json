@@ -1,0 +1,60 @@
+{
+  "funcionarios": [
+    {
+      "id": 1,
+      "nome": "Ana Beatriz Silva",
+      "cargo": "Analista de Sistemas",
+      "salario": 5200.00,
+      "tempoEmpresa": "3 anos",
+      "setor": "Tecnologia da Informação"
+    },
+    {
+      "id": 2,
+      "nome": "Carlos Eduardo Souza",
+      "cargo": "Gerente de Vendas",
+      "salario": 8500.00,
+      "tempoEmpresa": "6 anos",
+      "setor": "Comercial"
+    },
+    {
+      "id": 3,
+      "nome": "Fernanda Costa",
+      "cargo": "Analista Financeiro",
+      "salario": 4800.00,
+      "tempoEmpresa": "2 anos",
+      "setor": "Financeiro"
+    },
+    {
+      "id": 4,
+      "nome": "João Pedro Almeida",
+      "cargo": "Desenvolvedor Backend",
+      "salario": 6300.00,
+      "tempoEmpresa": "1 ano",
+      "setor": "Tecnologia da Informação"
+    },
+    {
+      "id": 5,
+      "nome": "Mariana Oliveira",
+      "cargo": "Coordenadora de RH",
+      "salario": 6900.00,
+      "tempoEmpresa": "4 anos",
+      "setor": "Recursos Humanos"
+    },
+    {
+      "id": 6,
+      "nome": "Rafael Lima",
+      "cargo": "Assistente Administrativo",
+      "salario": 2500.00,
+      "tempoEmpresa": "8 meses",
+      "setor": "Administrativo"
+    },
+    {
+      "id": 7,
+      "nome": "Juliana Ferreira",
+      "cargo": "Diretora de Marketing",
+      "salario": 12000.00,
+      "tempoEmpresa": "10 anos",
+      "setor": "Marketing"
+    }
+  ]
+}
